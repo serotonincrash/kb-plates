@@ -8,4 +8,4 @@ Traced using the 1.2og plate (for compatibility with Chinese blockers).
 | Variant      | Working? |
 | ----------- | ----------- |
 | Regular      | Yes      |
-| Split right shift   | Prototyping     |
+| Split right shift   | Yes |
