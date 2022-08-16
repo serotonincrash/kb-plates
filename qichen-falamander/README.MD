@@ -9,3 +9,4 @@ Traced using the 1.2og plate (for compatibility with Chinese blockers).
 | ----------- | ----------- |
 | Regular      | Yes      |
 | Split right shift   | Yes |
+| No flex cuts   | Yes     |
